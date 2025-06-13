@@ -25,9 +25,27 @@ This repository is primarily for my personal learning journey and serves as a re
 
 This specialization is structured into multiple courses, each focusing on a specific area of machine learning. The current progress within this repository reflects the following courses:
 
-* **Course 1: Supervised Machine Learning: Regression and Classification** (or the actual name of your first course)
-    * *Topics covered:* Linear Regression, Logistic Regression, Neural Networks, etc. (add more as you progress)
+* **Course 1: Supervised Machine Learning: Regression and Classification**
+    * Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
 
+    * Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
+
+* **Course 2: Advanced Learning Algorithms**
+    * Build and train a neural network with TensorFlow to perform multi-class classification
+
+    * Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+
+    * Build and use decision trees and tree ensemble methods, including random forests and boosted trees    
+
+* **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning**
+    * Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+
+    * Build recommender systems with a collaborative filtering approach and a content-based deep learning method
+
+    * Build a deep reinforcement learning model  
+
+
+* **
 ## Contents
 
 ### Labs
@@ -53,11 +71,6 @@ To explore the content of this repository:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/DinhXuanKhuong/Machine-Learning-Specialization.git](https://github.com/DinhXuanKhuong/Machine-Learning-Specialization.git)
+    git clone https://github.com/DinhXuanKhuong/Machine-Learning-Specialization.git
     ```
-2.  **Navigate to the desired section:**
-    ```bash
-    cd Machine-Learning-Specialization/Labs/Course_1
-    ```
-3.  **Open notebooks/files:** If you have Jupyter Notebook installed, you can run `.ipynb` files. Markdown files (`.md`) can be viewed directly in your browser on GitHub or using any text editor.
 
